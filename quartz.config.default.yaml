@@ -6,7 +6,7 @@ configuration:
   enablePopovers: true
   analytics: null
   locale: fr-FR
-  baseUrl: augustinsoulard.github.io/PhytosocioNexusWeb
+  baseUrl: phytosocionexus.synetea.fr
   ignorePatterns:
     - private
     - templates
