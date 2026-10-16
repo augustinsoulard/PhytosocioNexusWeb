@@ -1,0 +1,26 @@
+---
+tags:
+  - sous-alliance
+syntaxon_superieur: "[[Thesio humifusi-Koelerion pyramidatae]]"
+syntaxon_inferieur:
+especes_indicatrices:
+date_maj: 2026-06-15
+auteurs:
+  - Augustin Soulard
+sources:
+  - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
+---
+**Description** : Pelouses mésoxérophiles atlantiques et subatlantiques sur sols peu épais, hyperatlantique
+
+**Espèces caractéristiques** : [[Euphorbia segetalis subsp. portlandica]], [[Anthyllis vulneraria]]
+
+- **Correspondances typologiques** :
+	- EUNIS : [[E1.262]]
+	- CB : [[34.322]]
+	- HIC EUR : [[6210]]
+
+ZH : non
+
+Associations :
+- [[Anthyllido vulnerariae-Festucetum armoricanae]] Bioret et Glemarec 2016 ; 
+- [[Galio littoralis-Brachypodietum rupestris]] Géhu et Géhu-Franck 1984 corr. Bioret 2008

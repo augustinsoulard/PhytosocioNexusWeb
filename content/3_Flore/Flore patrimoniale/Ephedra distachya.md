@@ -1,0 +1,1 @@
+**Habitats :** Psammophile sur les côtes rocheuses et littorale sableux ([[Ammophiletea]]) notamment le [[Malcolmio littoreae-Ephedretum distachyae]]. Parfois dans des rochers thermophiles calcaires [[Genistion lobelii]]. 

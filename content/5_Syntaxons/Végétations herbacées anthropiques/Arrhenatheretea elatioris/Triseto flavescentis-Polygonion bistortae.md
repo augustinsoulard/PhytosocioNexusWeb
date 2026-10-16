@@ -1,0 +1,26 @@
+---
+tags:
+  - alliance
+syntaxon_superieur: "[[Arrhenatheretalia elatioris]]"
+syntaxon_inferieur:
+especes_indicatrices:
+date_maj: 2026-06-14
+auteurs:
+  - Augustin Soulard
+sources:
+  - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
+---
+**Description** : Prairies montagnardes à subalpines
+
+**Espèces caractéristiques** : Alchemilla xanthochlora s.l ([[Alchemilla xanthochlora]])
+
+ZH : non spécifié
+
+![[064 - Triseto flavescentis-Polygonion bistortae.jpg]]
+
+Sous-alliances :
+- [[Alchemillo monticolae-Trisetenion flavescentis]] Ferrez 2007
+- [[Campanulo rhomboidalis-Trisetenion flavescentis]] Dierschke in Theurillat 1992
+- [[Lathyro linifolii-Trisetenion flavescentis]] Dierschke 1981 nom. inval.
+- [[Rhinantho pumili-Trisetenion flavescentis]] B. Foucault 2016
+- [[Trollio europaei-Trisetenion flavescentis]] Le Hénaff et al. 2021

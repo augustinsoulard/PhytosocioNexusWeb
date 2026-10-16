@@ -1,0 +1,28 @@
+---
+tags:
+  - sous-alliance
+syntaxon_superieur: "[[Euphorbio paraliae-Ammophilion arenariae]]"
+date_maj: 2026-06-14
+auteurs:
+  - Augustin Soulard
+sources:
+  - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
+---
+**Description** : Végétation vivace pionnière des dunes mobiles
+
+**Espèces caractéristiques** : [[Elytrigia juncea subsp. boreoatlantica]]
+
+- **Correspondances typologiques** :
+	- EUNIS : [[B1.311]]
+	- CB : [[16.21]]
+	- HIC EUR : [[2110-1]]
+
+ZH : non
+
+![[037 - Agropyro boreoatlantici-Minuartienion peploidis.jpg]]
+
+Associations :
+- [[Crithmo maritimi-Otanthetum maritimi]] (Pavillard 1928) Géhu 2009 ; 
+- [[Euphorbio paraliae-Agropyretum junceiformis]] Tüxen in Braun-Blanquet et Tüxen 1952 corr. Darimont, J. Duvign. et Lambinon 1962 corr. Darimont, J. Duvigneaud et Lambinon 1962
+
+Note CatVeg : "Mucina et al. (2016) intègrent cette sous-alliance dans les Honckenyo peploidis-Elymetea arenarii mais son association type semble être l'Euphorbio paraliae-Agropyretum junceiformis composé notamment d'Eryngium maritimum, Convolvulus soldanella, Ammophila arenaria et Euphorbia paralias. Nous conservons donc cette sous-alliance dans les Ammophiletea."

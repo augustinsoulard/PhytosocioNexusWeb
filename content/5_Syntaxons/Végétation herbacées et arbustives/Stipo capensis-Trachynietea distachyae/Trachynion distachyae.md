@@ -1,0 +1,34 @@
+---
+tags:
+  - alliance
+syntaxon_superieur: "[[Brachypodietalia distachyi]]"
+syntaxon_inferieur:
+especes_indicatrices:
+date_maj: 2026-06-15
+auteurs:
+  - Augustin Soulard
+sources:
+  - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
+---
+**Description** : Végétation des sols et lithosols calcaires méditerranéo-atlantique (inclut notamment l'association Lino leonii-Arenarietum controversae)
+
+**Espèces caractéristiques** : [[Brachypodium distachyon]], [[Bupleurum baldense]], [[Linum leonii]]
+
+- **Correspondances typologiques** :
+	- EUNIS : [[E1.3131]]
+	- CB : [[34.5131]]
+	- HIC EUR : [[6220-2]] à [[6220-4]]
+
+ZH : non
+
+Associations :
+- [[Alysso simplicis-Holosteetum umbellati]] Laigneau et Corriol 2019 ; 
+- [[Bupleuro baldensis-Bombycilaenetum erectae]] Choisnet 2019 nom. ined. (1) ; 
+- [[Carici nitidae-Crepidetum suffrenianae]] Molinier 1934 ; 
+- [[Lino collini-Arenarietum controversae]] J.L. Verrier 1979 ; 
+- [[Lino stricti-Vulpietum ciliatae]] B. Foucault 2018 ; 
+- [[Sileno nocturni-Trifolietum scabri]] Laigneau et Corriol 2019 ; 
+- [[Staticetum echioidis]] Tallon ex Braun-Blanquet et al. 1952 ; 
+- [[Trifolietum leucantho-stellati]] Laigneau et Corriol 2019 ; 
+- [[Trifolio nigrescentis-Helianthemetum salicifolii]] Laigneau et Corriol 2019 ; 
+- [[Vulpio ciliatae-Crepidetum foetidae]] Vernier 1979
