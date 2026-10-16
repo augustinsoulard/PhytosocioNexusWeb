@@ -6,7 +6,7 @@ configuration:
   enablePopovers: true
   analytics: null
   locale: fr-FR
-  baseUrl: quartz.jzhao.xyz
+  baseUrl: augustinsoulard.github.io
   ignorePatterns:
     - private
     - templates
