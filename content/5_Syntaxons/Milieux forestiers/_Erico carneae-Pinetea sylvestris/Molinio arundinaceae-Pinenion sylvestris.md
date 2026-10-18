@@ -1,0 +1,16 @@
+---
+tags:
+  - sous-alliance
+syntaxon_superieur: "[[Erico carneae-Pinion sylvestris]]"
+syntaxon_inferieur:
+especes_indicatrices:
+date_maj: 2026-06-15
+auteurs:
+  - Augustin Soulard
+sources:
+  - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
+---
+![[232 - Molinio arundinaceae-Pinenion sylvestris.jpg]]
+Associations :
+- [[Coronillo vaginalis-Pinetum sylvestris]] J.L. Richard 1972 ;
+- [[Molinio litoralis-Pinetum sylvestris]] Em. Schmid ex H. Etter 1947

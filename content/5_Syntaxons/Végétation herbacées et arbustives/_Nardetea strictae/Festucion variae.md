@@ -1,0 +1,35 @@
+---
+tags:
+  - alliance
+syntaxon_superieur: "[[Festucetalia spadiceae]]"
+syntaxon_inferieur:
+especes_indicatrices:
+date_maj: 2026-06-15
+auteurs:
+  - Augustin Soulard
+sources:
+  - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
+---
+**Description** : Pelouses thermophiles acidiphiles, surtout alpestres (exceptionnel, Massif central). 
+
+**Espèces caractéristiques** : [[Festuca scabriculmis]], [[Trifolium montanum]], [[Carlina acaulis]], [[Scorzoneroides pyrenaica]], [[Alchemilla alpina]], [[Viola calcarata]], [[Pedicularis rostratospicata]], [[Phyteuma orbiculare]], [[Nigritella nigra subsp. corneliana]], [[Nardus stricta]], [[Sempervivum arachnoideum]], [[Androsace vitaliana]], [[Bellardiochloa violacea]], [[Trifolium alpinum]], [[Leucanthemum delarbrei]], [[Patzkea paniculata subsp. paniculata]]
+
+- **Correspondances typologiques** :
+	- EUNIS : [[E4.333]]
+	- CB : [[36.333]]
+	- HIC EUR : NC
+
+ZH : non
+
+![[373 - Festucion variae.jpg]]
+Associations :
+- [[Anthoxantho odorati-Veronicetum allionii]] Lavagne et al. 1983 ; 
+- [[Avenetum parlatorei]] Lavagne et al. 1983 ; 
+- [[Festuco scabriculmis-Potentilletum valderiae]] Guinochet 1938 ; 
+- [[Leontodonto helvetici-Alchemilletum alpinae]] A. Lacoste 1975 ; 
+- [[Leucanthemo delarbrei-Festucetum paniculatae]] Braun-Blanquet 1926 ; 
+- [[Nigritello cornelianae-Nardetum strictae]] Barbero 1970 ; 
+- [[Phyteumato michelii-Poetum violaceae]] Barbero 1970 ; 
+- [[Ranunculo pyrenaei-Alopecuretum gerardi]] (Lippmaa 1933) Guinochet 1938 ; 
+- [[Trifolio alpini-Poetum violaceae]] Lavagne et al. 1983 nom. inval. ; 
+- [[Trifolio villosi-Avenuletum pubescentis]] Le Hénaff et al. in Le Hénaff et al. 2021

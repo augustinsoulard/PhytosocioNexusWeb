@@ -1,0 +1,17 @@
+---
+tags:
+  - sous-alliance
+syntaxon_superieur: "[[Lemno trisulcae-Salvinion natantis]]"
+syntaxon_inferieur:
+especes_indicatrices:
+date_maj: 2026-06-15
+auteurs:
+  - Augustin Soulard
+sources:
+  - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
+---
+![[334 - Lemno trisulcae-Riccienion fluitantis.jpg]]
+Associations :
+- [[Lemnetum trisulcae]] Hartog 1963 ; 
+- [[Riccietum fluitantis]] Slavnič 1956 ; 
+- [[Ricciocarpetum natantis]] Tüxen 1974

@@ -1,0 +1,31 @@
+---
+tags:
+  - alliance
+syntaxon_superieur: "[[Cytisetalia scopario-striati]]"
+syntaxon_inferieur:
+especes_indicatrices:
+date_maj: 2026-06-15
+auteurs:
+  - Augustin Soulard
+sources:
+  - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
+---
+**Description** : Végétations montagnardes méridionales (Pyrénées, Massif central)
+
+**Espèces caractéristiques** : [[Cytisus oromediterraneus]], [[Teucrium scorodonia]]
+
+- **Correspondances typologiques** :
+	- EUNIS : [[F3.21]]
+	- CB : [[31.842]]
+	- HIC EUR : [[5120-1]] & [[5120-2]]
+
+ZH : non
+
+![[196 - Cytision oromediterranei.jpg]]
+Associations :
+- [[Abieti albae-Cytisetum oromediterranei]] B. Foucault 2019 ; 
+- [[Pino uncinatae-Cytisetum oromediterranei]] B. Foucault et al. 2013 ; 
+- [[Plantagini holostei-Cytisetum oromediterranei]] M.-T. Arnaud et al. 1983 ; 
+- [[Senecioni adonidifolii-Cytisetum oromediterranei]] (Rivas Martínez 1968) Rivas Martínez et Cantó in Rivas Martínez et al. 2002 ; 
+- T[[eucrio scorodoniae-Cytisetum purgantis]] Coquillard in Thébaud et al. 2014 ; 
+- [[Violo saxatilis-Cytisetum oromediterranei]] J.-M. Royer 1971 corr. J.-M. Royer et al. 2006

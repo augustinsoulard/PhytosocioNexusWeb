@@ -1,0 +1,31 @@
+---
+tags:
+  - alliance
+syntaxon_superieur: "[[Festucetalia spadiceae]]"
+syntaxon_inferieur:
+especes_indicatrices:
+date_maj: 2026-06-15
+auteurs:
+  - Augustin Soulard
+sources:
+  - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
+---
+**Description** : Pelouses thermophiles alpestres acidiclines
+
+**Espèces caractéristiques** : [[Patzkea paniculata subsp. paniculata]], [[Hypericum richeri]], [[Pilosella peleteriana]]
+
+- **Correspondances typologiques** :
+	- EUNIS : [[E4.331]]
+	- CB : [[36.331]]
+	- HIC EUR : NC
+
+ZH : non
+
+![[376 - Hyperico richeri-Festucion paniculatae.jpg]]
+Associations :
+- [[Anemono alpinae-Meetum athamantici]] Lippmaa 1933 ; 
+- [[Centaureo uniflorae-Festucetum spadiceae]] Lippmaa 1933 ; 
+- [[Geo montani-Meetum athamanticum]] Je. Ritter 1969 ; 
+- [[Helictotricho parlatorei-Festucetum paniculatae]] Barbero 1972 ; 
+- [[Junipero nanae-Festucetum paniculatae]] Nègre 1950 ; 
+- [[Lathyro lutei-Crepidetum blattarioidis]] Braun-Blanquet 1972
