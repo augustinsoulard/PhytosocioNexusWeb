@@ -224,11 +224,9 @@ plugins:
   - source: "@quartz-community/note-properties"
     enabled: true
     options:
-      includeAll: true
+      includeAll: false
       includedProperties:
-        - description
         - tags
-        - aliases
         - syntaxon_superieur
         - sources
         - auteurs
