@@ -20,3 +20,9 @@ Sous-ordres :
 - [[Artemisio albae-Bromenalia erecti]] Biondi et al. 1995
 - [[Bromenalia erecti]] Terzi et al. 2016
 - [[Koelerio macranthae-Phleenalia phleoidis]] Korneck ex J.-M. Royer 1991
+
+Associations d'après Choisnet (2019) :
+- [[Groupement à Lotus corniculatus subsp. delortii et Bromopsis erecta]] Choisnet, 2019 ;
+- [[Groupement à Agrostis castellana et Bromopsis erecta]] Choisnet, 2019 ;
+- [[Groupement à Cervaria rivini et Bromopsis erecta]] Choisnet, 2019 ;
+- [[Filipendula vulgaris-Teucrium chamaedrys]] Choisnet, 2019 ;

@@ -10,3 +10,8 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
 ---
+Arènes signale en Provence cristalline une forme méditerranéenne du Cicendietum filiformis (atlantique) sur sol sableux pauvre en calcaire, avec une liste globale : [[Cyperus fuscus]], [[Cyperus flavescens]], [[Juncus bufonius]], [[Juncus capitatus]], [[Juncus tenageia]], [[Lythrum portula]], [[Radiola linoides]], [[Cicendia filiformis]], [[Lysimachia minima]], [[Cicendia pusilla]], [[Mentha pulegium]], [[Pulicaria vulgaris]].
+
+**Écologie :** sol sableux pauvre en calcaire, temporairement inondé.
+
+**Chorologie :** Provence cristalline ; groupement à rechercher.

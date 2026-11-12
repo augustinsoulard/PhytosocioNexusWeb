@@ -28,8 +28,10 @@ Associations :
 - [[Carici nitidae-Crepidetum suffrenianae]] Molinier 1934 ; 
 - [[Lino collini-Arenarietum controversae]] J.L. Verrier 1979 ; 
 - [[Lino stricti-Vulpietum ciliatae]] B. Foucault 2018 ; 
+- [[Sedetum albo-caespitosi]] (Molin. 1934) Argagnon stat. nov. in prep.
 - [[Sileno nocturni-Trifolietum scabri]] Laigneau et Corriol 2019 ; 
 - [[Staticetum echioidis]] Tallon ex Braun-Blanquet et al. 1952 ; 
 - [[Trifolietum leucantho-stellati]] Laigneau et Corriol 2019 ; 
 - [[Trifolio nigrescentis-Helianthemetum salicifolii]] Laigneau et Corriol 2019 ; 
+- [[Groupement à Geranium purpureum et Hornungia petraea]] Choisnet 2019 ;
 - [[Vulpio ciliatae-Crepidetum foetidae]] Vernier 1979

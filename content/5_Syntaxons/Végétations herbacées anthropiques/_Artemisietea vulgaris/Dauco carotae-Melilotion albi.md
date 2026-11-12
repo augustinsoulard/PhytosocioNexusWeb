@@ -10,9 +10,9 @@ auteurs:
 sources:
   - "[[Lafon et al. - 2024 - CatVeg - Catalogue de la végétation de France métropolitaine.pdf]]"
 ---
-**Description** : Friches de hautes herbes, sur substrats grossiers souvent rapportés
+**Description** : Végétation de hautes herbacées vivaces, mésoxérophile, dominée par les espèces monocarpiques, des substrats grossiers de l'Europe tempérée et boréale.
 
-**Espèces caractéristiques** : [[Crepis setosa]], [[Crepis foetida]]
+**Espèces caractéristiques** : [[Crepis setosa]], [[Crepis foetida]], [[Artemisia vulgaris]], [[Crepis setosa]], [[Erigeron annuus]], [[Linaria vulgaris]], [[Medicago sativa subsp. sativa]], [[Medicago sativa subsp. ambigua]], [[Melilotus albus]], [[Oenothera pycnocarpa]], [[Reseda lutea]], [[Reseda luteola]], [[Saponaria officinalis]], [[Solidago canadensis]], [[Trigonella officinalis]], [[Verbena officinalis]].
 
 - **Correspondances typologiques** :
 	- EUNIS : [[E5.12]] - [[E5.13]]
@@ -33,6 +33,7 @@ Associations :
 - [[Echio vulgaris-Melilotetum albi]] Tüxen 1947 ; 
 - [[Echio vulgaris-Verbascetum thapsi]] (Tüxen 1942) G. Sissingh 1950 ; 
 - [[Galeopsio segeti-Saponarietum officinalis]] Choisnet 2019 nom. ined. (1) ; 
+- [[Groupement à Melilotus albus et Diplotaxis tenuifolia]] Noble et Baret, 2019 ;
 - [[Helminthio echioidis-Melilotetum albae]] Loidi et C. Navarro 1988 ; 
 - [[Hieracio maculati-Lactucetum perennis]] Decocq 1999 nom. inval. (3b) ; 
 - [[Melilotetum albo-officinalis]] G. Sissingh 1950 ; 
@@ -43,4 +44,5 @@ Associations :
 - [[Resedo luteae-Rumicetum scutati]] D.P. Petit 1985 nom. inval. (3o, 5) ; 
 - [[Saponario officinalis-Artemisietum verlotiorum]] M. Baldoni et Biondi 1993 ; 
 - [[Saponario officinalis-Artemisietum vulgaris]] Felzines et al. 2002 ; 
+- [[Groupement à Artemisia verlotiorum]] Choisnet, 2019 ;
 - [[Scrophulario caninae-Melilotetum albi]] Loiseau et Braque 1972
